@@ -2,44 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Stupid Brain</title>
-    <link>http://mikedmorgan.github.io/post/index.xml</link>
+    <link>/post/index.xml</link>
     <description>Recent content in Posts on The Stupid Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Untitled.</copyright>
-    <lastBuildDate>Sun, 19 Mar 2017 10:34:23 +0000</lastBuildDate>
-    <atom:link href="http://mikedmorgan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Introduction</title>
-      <link>http://mikedmorgan.github.io/post/introduction/</link>
-      <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
-      
-      <guid>http://mikedmorgan.github.io/post/introduction/</guid>
-      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
-&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
-&lt;div id=&#34;oh-look-another-blog&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Oh look, another blog!&lt;/h2&gt;
-&lt;p&gt;I think this might be the third blog I’ve tried to write. My previous attempts in the past suffered due to lack of a proper theme, motivation; well the usual issues that accompany a chronic lack of creativity.&lt;/p&gt;
-&lt;p&gt;I think (hope?) this one might be a bit different.&lt;/p&gt;
-&lt;p&gt;I’ve been pondering a little running project for a few months, and I’ve finally got off my bum and started to plan it. My idea is a based on a book, ‘High Points’, which chronicles the story of a man who decides to walk up all of the highest points in the UK counties. Having recently moved to Cambridge, with it’s distinct lack of anything more than a few storeys high, I was in desperate need of anything that approximated a hill. The surest bet to find a hill is to leave Cambridgeshire. So, I thought why not try to run up all of the highest points in the UK counties?&lt;/p&gt;
-&lt;p&gt;That seems like a sensible idea Mike…&lt;/p&gt;
-&lt;p&gt;Of course there are rules, otherwise I wont do it, and that’s not really the point of setting myself this challenge. In the far distance I will have to run Ben Nevis, Snowdon and Scafell Pike, but there are quite a few counties before with considerably smaller hillocks, mounds and bumps.&lt;/p&gt;
-&lt;p&gt;The rules that I have set myself are: * The running route must encompass at least the highest in a single county, but can include more if they are close together (there are couple that lie close to county borders) * The distance must be at least 10km. If I’m going to have to travel to do this project, I might as well make it worth my while. Plus, I’m not sure some of the bigger hills would fit into less than 10km… * I will record the run (Endomondo, here’s looking at you) * I will bring back a momento from each hill. I’ll be honest, I got a little stuck here, but I think something simple like a small rock should suffice.&lt;/p&gt;
-&lt;p&gt;Those are the rules, and I don’t think they are so restrictive that I will struggle with them (unlike the running).&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>http://mikedmorgan.github.io/post/2016-12-30-hello-markdown/</link>
+      <link>/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/2016-12-30-hello-markdown/</guid>
+      <guid>/post/2016-12-30-hello-markdown/</guid>
       <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -67,10 +43,10 @@
     
     <item>
       <title>Name of the work 1</title>
-      <link>http://mikedmorgan.github.io/post/work1/</link>
+      <link>/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work1/</guid>
+      <guid>/post/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 &lt;/p&gt;
 
@@ -103,10 +79,10 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://mikedmorgan.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -140,7 +116,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;http://MikeDMorgan.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -151,20 +127,20 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://mikedmorgan.github.io/post/2015-01-01-lorem-ipsum/</link>
+      <link>/post/2015-01-01-lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/2015-01-01-lorem-ipsum/</guid>
+      <guid>/post/2015-01-01-lorem-ipsum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>This is a Standard Post</title>
-      <link>http://mikedmorgan.github.io/post/work2/</link>
+      <link>/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work2/</guid>
+      <guid>/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;
 
@@ -199,10 +175,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Another Awesome Post</title>
-      <link>http://mikedmorgan.github.io/post/work3/</link>
+      <link>/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work3/</guid>
+      <guid>/post/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -235,10 +211,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>A post without an Image</title>
-      <link>http://mikedmorgan.github.io/post/work4/</link>
+      <link>/post/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work4/</guid>
+      <guid>/post/work4/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
@@ -271,10 +247,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>A Totally Response Theme</title>
-      <link>http://mikedmorgan.github.io/post/work5/</link>
+      <link>/post/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work5/</guid>
+      <guid>/post/work5/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -307,10 +283,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Post with a Gallery</title>
-      <link>http://mikedmorgan.github.io/post/work7/</link>
+      <link>/post/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work7/</guid>
+      <guid>/post/work7/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -343,10 +319,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>A Post with lot of comments</title>
-      <link>http://mikedmorgan.github.io/post/work8/</link>
+      <link>/post/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work8/</guid>
+      <guid>/post/work8/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -379,10 +355,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Blogging is Fun and Worthwhile</title>
-      <link>http://mikedmorgan.github.io/post/work9/</link>
+      <link>/post/work9/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work9/</guid>
+      <guid>/post/work9/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
@@ -415,10 +391,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Item with image</title>
-      <link>http://mikedmorgan.github.io/post/work10/</link>
+      <link>/post/work10/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work10/</guid>
+      <guid>/post/work10/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
@@ -451,10 +427,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Item with image</title>
-      <link>http://mikedmorgan.github.io/post/work11/</link>
+      <link>/post/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work11/</guid>
+      <guid>/post/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
