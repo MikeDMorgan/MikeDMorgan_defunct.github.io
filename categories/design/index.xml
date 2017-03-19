@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on The Stupid Brain</title>
-    <link>http://mikedmorgan.github.io/categories/design/index.xml</link>
+    <link>/categories/design/index.xml</link>
     <description>Recent content in Design on The Stupid Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Untitled.</copyright>
-    <atom:link href="http://mikedmorgan.github.io/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>This is a Standard Post</title>
-      <link>http://mikedmorgan.github.io/post/work2/</link>
+      <link>/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/post/work2/</guid>
+      <guid>/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;
 
