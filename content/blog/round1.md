@@ -5,6 +5,7 @@ date = "2017-03-20"
 description = "Hill 1: In the bag"
 featured = "summit_selfie1.jpg"
 featuredalt = "summit1"
+featurepath = "img"
 title = "Round 1"
 type = "post"
 draft = false

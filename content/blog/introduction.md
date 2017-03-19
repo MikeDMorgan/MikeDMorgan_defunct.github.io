@@ -8,6 +8,7 @@ draft = false
 categories = ["running"]
 featured = "intro.jpg"
 featuredalt = "Intro"
+featurepath = "img"
 +++
 
 ## Why?!
