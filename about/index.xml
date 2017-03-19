@@ -6,7 +6,8 @@
     <description>Recent content in Abouts on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Untitled.</copyright>
+    <managingEditor>m.d.morgan183@gmail.com (Mike Morgan)</managingEditor>
+    <webMaster>m.d.morgan183@gmail.com (Mike Morgan)</webMaster>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
     <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
       <title>About me</title>
       <link>/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
       <guid>/about/</guid>
       <description>
 
