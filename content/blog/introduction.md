@@ -1,5 +1,5 @@
 +++
-date = "03-19-2017"
+date = "2017-03-19"
 title = "Introduction"
 type = "post"
 description = "Introduction"
@@ -8,8 +8,6 @@ draft = false
 categories = ["running"]
 featured = "intro.jpg"
 featuredalt = "Intro"
-featuredpath = "img"
-
 +++
 
 ## Why?!

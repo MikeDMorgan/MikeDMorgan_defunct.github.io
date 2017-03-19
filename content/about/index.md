@@ -1,5 +1,5 @@
 +++
-date = "19-03-2017"
+date = "2017-03-19"
 title = "About me"
 featured = "about.jpg"
 featuredalt = "About"
