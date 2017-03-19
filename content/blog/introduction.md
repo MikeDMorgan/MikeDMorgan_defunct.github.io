@@ -1,5 +1,5 @@
 +++
-date = "19-03-2017"
+date = "03-19-2017"
 title = "Introduction"
 type = "post"
 description = "Introduction"

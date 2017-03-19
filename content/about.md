@@ -1,6 +1,6 @@
 +++
 title = "About me"
-date = "2014-04-09"
+date = "19-03-2017"
 +++
 
 I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I'm embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.
