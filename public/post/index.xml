@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tracks</title>
-    <link>https://example.org/post/index.xml</link>
-    <description>Recent content in Posts on Tracks</description>
+    <title>Posts on The Stupid Brain</title>
+    <link>https://mikedmorgan.github.io/post/index.xml</link>
+    <description>Recent content in Posts on The Stupid Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
-    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mikedmorgan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://example.org/post/2016-12-30-hello-markdown/</link>
+      <link>https://mikedmorgan.github.io/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://example.org/post/2016-12-30-hello-markdown/</guid>
+      <guid>https://mikedmorgan.github.io/post/2016-12-30-hello-markdown/</guid>
       <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Name of the work 1</title>
-      <link>https://example.org/post/work1/</link>
+      <link>https://mikedmorgan.github.io/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/post/work1/</guid>
+      <guid>https://mikedmorgan.github.io/post/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 &lt;/p&gt;
 
@@ -79,10 +79,10 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.org/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://mikedmorgan.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.org/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://mikedmorgan.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -116,7 +116,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://example.org/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://MikeDMorgan.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -127,20 +127,20 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://example.org/post/2015-01-01-lorem-ipsum/</link>
+      <link>https://mikedmorgan.github.io/post/2015-01-01-lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>https://example.org/post/2015-01-01-lorem-ipsum/</guid>
+      <guid>https://mikedmorgan.github.io/post/2015-01-01-lorem-ipsum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>This is a Standard Post</title>
-      <link>https://example.org/post/work2/</link>
+      <link>https://mikedmorgan.github.io/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/post/work2/</guid>
+      <guid>https://mikedmorgan.github.io/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;
 
@@ -175,10 +175,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Another Awesome Post</title>
-      <link>https://example.org/post/work3/</link>
+      <link>https://mikedmorgan.github.io/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/post/work3/</guid>
+      <guid>https://mikedmorgan.github.io/post/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -211,10 +211,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>A post without an Image</title>
-      <link>https://example.org/post/work4/</link>
+      <link>https://mikedmorgan.github.io/post/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/post/work4/</guid>
+      <guid>https://mikedmorgan.github.io/post/work4/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
@@ -247,10 +247,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>A Totally Response Theme</title>
-      <link>https://example.org/post/work5/</link>
+      <link>https://mikedmorgan.github.io/post/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/post/work5/</guid>
+      <guid>https://mikedmorgan.github.io/post/work5/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -283,10 +283,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Post with a Gallery</title>
-      <link>https://example.org/post/work7/</link>
+      <link>https://mikedmorgan.github.io/post/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://example.org/post/work7/</guid>
+      <guid>https://mikedmorgan.github.io/post/work7/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -319,10 +319,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>A Post with lot of comments</title>
-      <link>https://example.org/post/work8/</link>
+      <link>https://mikedmorgan.github.io/post/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://example.org/post/work8/</guid>
+      <guid>https://mikedmorgan.github.io/post/work8/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;
 
@@ -355,10 +355,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Blogging is Fun and Worthwhile</title>
-      <link>https://example.org/post/work9/</link>
+      <link>https://mikedmorgan.github.io/post/work9/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://example.org/post/work9/</guid>
+      <guid>https://mikedmorgan.github.io/post/work9/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
@@ -391,10 +391,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Item with image</title>
-      <link>https://example.org/post/work10/</link>
+      <link>https://mikedmorgan.github.io/post/work10/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://example.org/post/work10/</guid>
+      <guid>https://mikedmorgan.github.io/post/work10/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 
@@ -427,10 +427,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Item with image</title>
-      <link>https://example.org/post/work11/</link>
+      <link>https://mikedmorgan.github.io/post/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://example.org/post/work11/</guid>
+      <guid>https://mikedmorgan.github.io/post/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;
 

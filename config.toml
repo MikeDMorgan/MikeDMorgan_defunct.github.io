@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Tracks"
+baseurl = "https://MikeDMorgan.github.io/"
+title = "The Stupid Brain"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -46,10 +46,6 @@ googleAnalytics = ""
 
   [params.social]
   facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
   twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
   github        = "full profile url in github"
