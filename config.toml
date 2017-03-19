@@ -9,7 +9,7 @@ googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "My blog about doing stupid things"
+    description          = "Stupid Things"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Stupid Things"
     # Social media buttons that appear on the sidebar
@@ -19,8 +19,8 @@ googleAnalytics = ""
     viewMorePostLink     = "/blog/"
 
 # Optional Params
-    categoriesByCount    = true
-    includeReadingTime   = true
+    categoriesByCount    = false
+    includeReadingTime   = false
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
     # Please see the favicon partial template for more information
@@ -41,9 +41,9 @@ googleAnalytics = ""
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Stupid Things"
+    header    = "A catalogue of my (sometimes) stupid adventures"
 
-    paragraph = "A catalogue of my stupid adventures"
+    paragraph = "Mike Morgan"
 
     about     = "I'm a scientist, runner and climber.  Sometimes I have stupid ideas, sometimes I do stupid things"
 

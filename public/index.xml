@@ -2,19 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stupid Things</title>
-    <link>http://mikedmorgan.github.io/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 19 Mar 2017 10:34:23 +0000</lastBuildDate>
-    <atom:link href="http://mikedmorgan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get in touch</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then&lt;/p&gt;
+
+&lt;p&gt;Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.&lt;/p&gt;
+
+&lt;p&gt;Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I&amp;rsquo;m embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I&amp;rsquo;m embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is from an &amp;ldquo;incident&amp;rdquo; when some friends and I got stuck inside a storm in the volcanic crater of Mt Aragats in Armenia.  It was a pretty stupid situation to find ourselves in&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://mikedmorgan.github.io/blog/introduction/</link>
-      <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
+      <link>/blog/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/blog/introduction/</guid>
+      <guid>/blog/introduction/</guid>
       <description>
 
 &lt;h2 id=&#34;why&#34;&gt;Why?!&lt;/h2&gt;
@@ -51,48 +93,6 @@
 &lt;p&gt;So, 103 counties in England, Scotland and Wales, 103 hills ranging from 22m to 1344m above sea level.&lt;/p&gt;
 
 &lt;p&gt;Let&amp;rsquo;s go running.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get in touch</title>
-      <link>http://mikedmorgan.github.io/contact/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>http://mikedmorgan.github.io/contact/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then&lt;/p&gt;
-
-&lt;p&gt;Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.&lt;/p&gt;
-
-&lt;p&gt;Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>http://mikedmorgan.github.io/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>http://mikedmorgan.github.io/about/</guid>
-      <description>&lt;p&gt;I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I&amp;rsquo;m embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://MikeDMorgan.github.io/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>http://mikedmorgan.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://mikedmorgan.github.io/about/</guid>
-      <description>&lt;p&gt;I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I&amp;rsquo;m embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://MikeDMorgan.github.io/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is from an &amp;ldquo;incident&amp;rdquo; when some friends and I got stuck inside a storm in the volcanic crater of Mt Aragats in Armenia.  It was a pretty stupid situation to find ourselves in&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

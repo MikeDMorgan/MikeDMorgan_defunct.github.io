@@ -1,10 +1,16 @@
----
-date: 2017-03-19T10:34:23Z
-title: Introduction
-type: "post"
-author: "Mike Morgan"
-draft: false
----
++++
+date = "19-03-2017"
+title = "Introduction"
+type = "post"
+description = "Introduction"
+author = "Mike Morgan"
+draft = false
+categories = ["running"]
+featured = "intro.jpg"
+featuredalt = "Intro"
+featuredpath = "img"
+
++++
 
 ## Why?!
 
