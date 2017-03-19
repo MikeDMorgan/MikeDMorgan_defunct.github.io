@@ -6,15 +6,61 @@
     <description>Recent content on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Untitled.</copyright>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <managingEditor>m.d.morgan183@gmail.com (Mike Morgan)</managingEditor>
+    <webMaster>m.d.morgan183@gmail.com (Mike Morgan)</webMaster>
+    <lastBuildDate>Sun, 19 Mar 2017 10:34:23 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction</title>
+      <link>/blog/introduction/</link>
+      <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
+      <guid>/blog/introduction/</guid>
+      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
+&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/blog/introduction/</link>
+      <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
+      <guid>/blog/introduction/</guid>
+      <description>
+
+&lt;h2 id=&#34;oh-look-another-blog&#34;&gt;Oh look, another blog!&lt;/h2&gt;
+
+&lt;p&gt;I think this might be the third blog I&amp;rsquo;ve tried to write.  My previous attempts in the past suffered due to lack of a proper theme, motivation; well the usual issues that accompany a chronic lack of creativity.&lt;/p&gt;
+
+&lt;p&gt;I think (hope?) this one might be a bit different.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been pondering a little running project for a few months, and I&amp;rsquo;ve finally got off my bum and started to plan it.  My idea is a based on a book, &amp;lsquo;High Points&amp;rsquo;, which chronicles the story of a man who decides to walk up all of the highest points in the UK counties.  Having recently moved to Cambridge, with it&amp;rsquo;s distinct lack of anything more than a few storeys high, I was in desperate need of anything that approximated a hill.  The surest bet to find a hill is to leave Cambridgeshire.  So, I thought why not try to run up all of the highest points in the UK counties?&lt;/p&gt;
+
+&lt;p&gt;That seems like a sensible idea Mike&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Of course there are rules, otherwise I wont do it, and that&amp;rsquo;s not really the point of setting myself this challenge.  In the far distance I will have to run Ben Nevis, Snowdon and Scafell Pike, but there are quite a few counties before with considerably smaller hillocks, mounds and bumps.&lt;/p&gt;
+
+&lt;p&gt;The rules that I have set myself are:
+* The running route must encompass at least the highest in a single county, but can include more if they are close together (there are couple that lie close to county borders)
+* The distance must be at least 10km.  If I&amp;rsquo;m going to have to travel to do this project, I might as well make it worth my while.  Plus, I&amp;rsquo;m not sure some of the bigger hills would fit into less than 10km&amp;hellip;
+* I will record the run (Endomondo, here&amp;rsquo;s looking at you)
+* I will bring back a momento from each hill.  I&amp;rsquo;ll be honest, I got a little stuck here, but I think something simple like a small rock should suffice.&lt;/p&gt;
+
+&lt;p&gt;Those are the rules, and I don&amp;rsquo;t think they are so restrictive that I will struggle with them (unlike the running).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Get in touch</title>
       <link>/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
       <guid>/contact/</guid>
       <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then&lt;/p&gt;
 
@@ -28,7 +74,7 @@
       <title>About me</title>
       <link>/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
       <guid>/about/</guid>
       <description>
 
@@ -55,7 +101,7 @@
       <title>About</title>
       <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
       <guid>/about/</guid>
       <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
 </description>

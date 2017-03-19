@@ -6,7 +6,8 @@
     <description>Recent content in Blogs on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Untitled.</copyright>
+    <managingEditor>m.d.morgan183@gmail.com (Mike Morgan)</managingEditor>
+    <webMaster>m.d.morgan183@gmail.com (Mike Morgan)</webMaster>
     <lastBuildDate>Sun, 19 Mar 2017 10:34:23 +0000</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
       <title>Introduction</title>
       <link>/blog/introduction/</link>
       <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
-      
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
       <guid>/blog/introduction/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
@@ -29,7 +30,7 @@
       <title>Introduction</title>
       <link>/blog/introduction/</link>
       <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
-      
+      <author>m.d.morgan183@gmail.com (Mike Morgan)</author>
       <guid>/blog/introduction/</guid>
       <description>
 
