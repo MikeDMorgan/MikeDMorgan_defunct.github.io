@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stupid Things</title>
-    <link>http://mikedmorgan.github.io/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://mikedmorgan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Round 1</title>
-      <link>http://mikedmorgan.github.io/blog/round1/</link>
+      <link>/blog/round1/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/blog/round1/</guid>
+      <guid>/blog/round1/</guid>
       <description>&lt;p&gt;Great Chishill.  It sounds like it should be some towering natural edifice, rather than a scrappy corner of a field next to a small copse of trees.  It was a good start though, and perhaps a good way to revise my expectations a little.  The lack of hills in and around Cambridge, and my distinct lack of fitness, made this a somewhat tougher challenge than I had expected.&lt;/p&gt;
 
 &lt;p&gt;I planned the route out yesterday after picking up a few OS maps from a look outdoor shop (there&amp;rsquo;s only one in Cambridge that actually sells maps, so no points for guessing).  I can&amp;rsquo;t work out how to render or insert a Google map with the route on, so here&amp;rsquo;s a crappy photo of the route drawn out on a map (OS Explorer 194).  The small red cross is the &amp;ldquo;summit&amp;rdquo;, in the loosest possible sense.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://MikeDMorgan.github.io/img/map_route1.jpg&#34; alt=&#34;the route&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/map_route1.jpg&#34; alt=&#34;the route&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And to prove it here&amp;rsquo;s a link to my Endomondo page with the route and elevations:&lt;/p&gt;
 
@@ -27,7 +27,7 @@
 
 &lt;p&gt;I was joined by my housemate Fred, which I was very grateful of by the end, as I was flagging on the last slog back to the car (and the awaiting beer).  I&amp;rsquo;ve already broken one of my rules, which was to bring back a keepsake of some sort; I couldn&amp;rsquo;t find any little stones.  I think I might make this a very flexible rule, afterall, I&amp;rsquo;ve got the maps, &amp;ldquo;summit&amp;rdquo; selfie and Endomondo records.  Perhaps for some of the hills that are a little further afield I&amp;rsquo;ll bring back something a bit more special.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://MikeDMorgan.github.io/img/summit_selfie1.jpg&#34; alt=&#34;selfie&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/summit_selfie1.jpg&#34; alt=&#34;selfie&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the main points of this blog, is so that I can look back and see what mistakes I&amp;rsquo;ve made, and what progress I&amp;rsquo;ve made in my running.  I really, really enjoyed this first part of the challenge, despite it being a bit harder than I was expecting.  We had a really strong side/head wind for half of the route, which added to the fun.  Not to mention 2 miles in we discovered the crucial footbridge to get us back onto the path was absent.  In it&amp;rsquo;s place was some red plastic bollards and rail fence.  In the spirit of adventure we clambered down the steep embankement and leapt the 4 feet across to the other side.  A little bit of climbing skills came in handy to get up the 5 foot vertical wall on the other side.  We both made it fine, but came away with more than our fair share of scratches and scrapes from all of the brambles.  If that was the start of the route, then we were going to be in for a good little adventure.  Both Fred and I thoroughly enjoyed ourselves, partly for the adventure (and a bit of route-finding faff), but also because it was harder then we expected.  I had focussed so much on getting a route that took in the summit I didn&amp;rsquo;t entirely pay attention to contours for the rest of the route.  As the old adage says, what goes up must come down, and &lt;em&gt;vice versa&lt;/em&gt;!&lt;/p&gt;
 
@@ -43,13 +43,13 @@
     
     <item>
       <title>About me</title>
-      <link>http://mikedmorgan.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I&amp;rsquo;m embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://MikeDMorgan.github.io/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is from an &amp;ldquo;incident&amp;rdquo; when some friends and I got stuck inside a storm in the volcanic crater of Mt Aragats in Armenia.  It was a pretty stupid situation to find ourselves in&amp;hellip;&lt;/p&gt;
 </description>
@@ -57,13 +57,13 @@
     
     <item>
       <title>About me</title>
-      <link>http://mikedmorgan.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;I am a computational biologist, runner and climber.  This blog is mostly about a little running adventure I&amp;rsquo;m embarking on, but will likely be interspersed with other thoughts regarding climbing trips, and generally doing things that might be considered quite, quite stupid.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://MikeDMorgan.github.io/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/about.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&amp;rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
 </description>
@@ -71,10 +71,10 @@
     
     <item>
       <title>Introduction</title>
-      <link>http://mikedmorgan.github.io/blog/introduction/</link>
+      <link>/blog/introduction/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/blog/introduction/</guid>
+      <guid>/blog/introduction/</guid>
       <description>
 
 &lt;h2 id=&#34;why&#34;&gt;Why?!&lt;/h2&gt;
@@ -116,10 +116,10 @@
     
     <item>
       <title>Get in touch</title>
-      <link>http://mikedmorgan.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
-      <guid>http://mikedmorgan.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then&lt;/p&gt;
 
 &lt;p&gt;Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.&lt;/p&gt;
