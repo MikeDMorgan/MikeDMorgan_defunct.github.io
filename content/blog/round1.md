@@ -1,7 +1,7 @@
 +++
 author = "Mike Morgan"
 categories = ["running"]
-date = "2017-03-20"
+date = "2017-03-19"
 description = "Hill 1: In the bag"
 featured = "summit_selfie1.jpg"
 featuredalt = "summit1"
@@ -13,7 +13,7 @@ draft = false
 
 Great Chishill.  It sounds like it should be some towering natural edifice, rather than a scrappy corner of a field next to a small copse of trees.  It was a good start though, and perhaps a good way to revise my expectations a little.  The lack of hills in and around Cambridge, and my distinct lack of fitness, made this a somewhat tougher challenge than I had expected.
 
-I planned the route out yesterday after picking up a few OS maps from a look outdoor shop (there's only one in Cambridge that actually sells maps, so no points for guessing).  I can't work out how to render or insert a Google map with the route on, so here's a crappy photo of the route drawn out on a map (OS Explorer 194).  The small red cross is the "summit", in the loosest possible sense.
+I planned the route out yesterday after picking up a few OS maps from a local outdoor shop (there's only one in Cambridge that actually sells maps, so no points for guessing).  I can't work out how to render or insert a Google map with the route on, so here's a crappy photo of the route drawn out on a map (OS Explorer 194).  The small red cross is the "summit", in the loosest possible sense.
 
 ![the route][2]
 
