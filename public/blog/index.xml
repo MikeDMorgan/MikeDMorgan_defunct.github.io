@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on The Stupid Brain</title>
-    <link>http://mikedmorgan.github.io/blog/index.xml</link>
-    <description>Recent content in Blogs on The Stupid Brain</description>
+    <title>Blogs on Stupid Things</title>
+    <link>/blog/index.xml</link>
+    <description>Recent content in Blogs on Stupid Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Untitled.</copyright>
     <lastBuildDate>Sun, 19 Mar 2017 10:34:23 +0000</lastBuildDate>
-    <atom:link href="http://mikedmorgan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction</title>
-      <link>http://mikedmorgan.github.io/blog/introduction/</link>
+      <link>/blog/introduction/</link>
       <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/blog/introduction/</guid>
+      <guid>/blog/introduction/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 &lt;!-- /BLOGDOWN-HEAD --&gt;
 
@@ -27,10 +27,10 @@
     
     <item>
       <title>Introduction</title>
-      <link>http://mikedmorgan.github.io/blog/introduction/</link>
+      <link>/blog/introduction/</link>
       <pubDate>Sun, 19 Mar 2017 10:34:23 +0000</pubDate>
       
-      <guid>http://mikedmorgan.github.io/blog/introduction/</guid>
+      <guid>/blog/introduction/</guid>
       <description>
 
 &lt;h2 id=&#34;oh-look-another-blog&#34;&gt;Oh look, another blog!&lt;/h2&gt;
