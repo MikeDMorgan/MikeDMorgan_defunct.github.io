@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/blog/round2/</loc>
+    <loc>http://mikedmorgan.github.io/blog/round2/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://mikedmorgan.github.io/about/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/round1/</loc>
+    <loc>http://mikedmorgan.github.io/blog/round1/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/introduction/</loc>
+    <loc>http://mikedmorgan.github.io/blog/introduction/</loc>
     <lastmod>2017-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>http://mikedmorgan.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>http://mikedmorgan.github.io/blog/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://mikedmorgan.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>http://mikedmorgan.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/running/</loc>
+    <loc>http://mikedmorgan.github.io/categories/running/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://mikedmorgan.github.io/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
