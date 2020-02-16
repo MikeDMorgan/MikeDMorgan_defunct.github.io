@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mikedmorgan.github.io/post/round14/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mikedmorgan.github.io/post/round13/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url>
@@ -220,14 +225,20 @@
   </url>
   
   <url>
+    <loc>http://mikedmorgan.github.io/categories/mud/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mikedmorgan.github.io/post/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mikedmorgan.github.io/categories/running/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -239,13 +250,19 @@
   
   <url>
     <loc>http://mikedmorgan.github.io/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mikedmorgan.github.io/categories/tourists/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikedmorgan.github.io/categories/volcano/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
