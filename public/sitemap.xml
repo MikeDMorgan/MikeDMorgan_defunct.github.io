@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mikedmorgan.github.io/post/round16/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mikedmorgan.github.io/post/round15/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -230,6 +235,12 @@
   </url>
   
   <url>
+    <loc>http://mikedmorgan.github.io/categories/hills/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mikedmorgan.github.io/categories/lockdown/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -249,13 +260,13 @@
   
   <url>
     <loc>http://mikedmorgan.github.io/post/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mikedmorgan.github.io/categories/running/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,13 +278,19 @@
   
   <url>
     <loc>http://mikedmorgan.github.io/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mikedmorgan.github.io/categories/tourists/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mikedmorgan.github.io/categories/unfit/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
